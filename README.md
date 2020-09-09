@@ -31,5 +31,12 @@ All of the necessary criteria for developing the pipeline and web app is given i
 
 3. Go to http://0.0.0.0:3001/
 
+### File in the repository
+  
+ 1. ETL Pipeline Preparation.ipynb.
+ 2. ETL Pipeline Preparation.html.
+ 3. ML Pipeline Preparation.ipynb
+ 4. ML Pipeline Preparation.html.
+ 
 
 

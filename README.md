@@ -37,6 +37,8 @@ All of the necessary criteria for developing the pipeline and web app is given i
  2. ETL Pipeline Preparation.html.
  3. ML Pipeline Preparation.ipynb
  4. ML Pipeline Preparation.html.
- 
+ 5. data/process_data.py: A data cleaning pipeline 
+ 6. train_classifier.py
+ 7. app/run.py
 
 
